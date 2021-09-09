@@ -1,5 +1,3 @@
-//Reymond Ramirez 05/12/2021 project 5
-
 import java.util.Scanner;
 public class Bank {
 	final static int DISPLAY_BALANCE = 1;
