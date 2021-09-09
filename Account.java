@@ -1,4 +1,3 @@
-//Reymond Ramirez 05/12/2021 project 5
 public class Account {
 	
 	private String Name;
